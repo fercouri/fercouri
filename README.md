@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fercouri
-- 👀 I’m interested in coding, fitness, circus arts (contortion, handbalancing, aerial skills, juggling) and reading
-- 🌱 I’m currently learning the basics of programming 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently starting my first project on Javascript and React Native
+- 💞️ I’m looking to collaborate on mobile development 
 - 📫 How to reach me: 
 Instagram: @ferncrb 
 Email: ferrcrb@gmail.com
